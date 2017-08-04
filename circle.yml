@@ -1,4 +1,4 @@
-# https://circleci.com/docs/configuration#machine1
+# https://circleci.com/docs/configuration#machine1.
 machine:
   timezone:
     America/Chicago
